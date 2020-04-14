@@ -2,9 +2,11 @@
 Name <mail>
 v0.1, 2019-03-24
 :toc: macro
+:math:
 :media: prepress
 :icons: font
 :source-highlighter: rouge
+:stem: latexmath
 
 <<<
 
