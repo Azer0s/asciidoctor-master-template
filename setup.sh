@@ -19,4 +19,4 @@ sudo gem install asciidoctor-diagram
 sudo gem install rouge
 sudo gem install prawn
 sudo gem install prawn-table
-sudo gem install asciidoctor-mathematical --pre
+sudo gem install asciidoctor-mathematical --pre --no-ri --no-rdoc
