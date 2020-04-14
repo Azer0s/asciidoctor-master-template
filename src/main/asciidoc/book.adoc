@@ -1,0 +1,32 @@
+= Title
+Name <mail>
+v0.1, 2019-03-24
+:toc: macro
+:media: prepress
+:icons: font
+:source-highlighter: rouge
+
+<<<
+
+toc::[]
+
+<<<
+
+== 1. Abstract
+
+Your abstract goes here.
+
+<<<
+
+== 2. Introduction
+
+Your introduction goes here.
+
+<<<
+[bibliography]
+== 3. References
+
+<<<
+== 4. Illustration Directory
+
+
