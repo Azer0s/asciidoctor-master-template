@@ -24,6 +24,10 @@ Your abstract goes here.
 
 Your introduction goes here.
 
+[stem]
+++++
+l(t) = \lfloor{300*sin(\frac{\pi*t}{20}) + 200}\rfloor
+++++
 <<<
 [bibliography]
 == 3. References
