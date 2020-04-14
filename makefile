@@ -7,7 +7,7 @@ book:
 	@echo "\033[4m\033[1mBuilding book\033[0m"
 	@echo
 	@mkdir build
-	@asciidoctor-pdf -r asciidoctor-diagram -r asciidoctor-diagram -a mathematical-format=svg src/main/asciidoc/book.adoc
+	@asciidoctor-pdf -r asciidoctor-diagram -r asciidoctor-mathematical -a mathematical-format=svg src/main/asciidoc/book.adoc
 	@pdflatex -halt-on-error -output-directory build TitlePage.tex
 	@rm src/main/asciidoc/stem* || true
 	@rm src/main/asciidoc/frienddia* || true
