@@ -4,7 +4,7 @@ sudo apt install build-essential
 sudo apt install ruby ruby-dev
 
 # Setup basic latex
-sudo apt -qq -y install cmake libpango1.0-dev bison flex libffi-dev libxml2-dev libgdk-pixbuf2.0-dev libcairo2-dev libpango1.0-dev fonts-lyx texlive-latex-base
+sudo apt -qq -y install cmake bison flex libffi-dev libxml2-dev libgdk-pixbuf2.0-dev libcairo2-dev libpango1.0-dev fonts-lyx texlive-latex-base
 
 # Setup pdftk
 wget http://mirrors.edge.kernel.org/ubuntu/pool/universe/p/pdftk-java/pdftk-java_3.0.2-2_all.deb
