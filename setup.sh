@@ -3,7 +3,7 @@ sudo apt install build-essential
 # Setup ruby
 sudo apt install ruby ruby-dev
 
-# Setup basic latex
+# Setup required packages
 sudo apt -qq -y install cmake bison flex libffi-dev libxml2-dev libgdk-pixbuf2.0-dev libcairo2-dev libpango1.0-dev fonts-lyx texlive-latex-base
 
 # Setup pdftk
